@@ -1,0 +1,29 @@
+body {
+    color: #000000;
+    background-color: #CDA47B;
+}
+
+.navbar {
+    color: #CDCDCD;
+    background-color: #666666;
+    font-size: xx-large;
+    font-family: monospace;
+    text-decoration: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navelement{
+    color: #CDCDCD;
+    font-size: x-large;
+    font-family: monospace;
+    text-decoration: none;
+}
+
+.intro{
+    color: #CDCDCD;
+    background-color: #666666;
+    font-family: monospace;
+    text-align: justify;
+    border-radius: 40px;
+}
